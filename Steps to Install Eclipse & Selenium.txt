@@ -1,0 +1,9 @@
+Step 1 > Download and install Eclipse.IDE(Latest version).
+Step 2 > Go to Selenium Website (https://www.selenium.dev/).
+         Then Go to Download in selenium Site.
+Step 3 > Click and add java (Or any other Language you want) it will start downloading.
+Step 4 > Extract the downloded selenium jar files in any folder.
+Step 5 > Open Eclipse Create a new java project Right Click on java project and click on build path.
+Step 6 > In that go to Libraries > Classpath > click on add external jar.
+Step 7 > Add all .jar files to classpath. Click on apply and then Click on apply and close.
+Step 8 > Your project is now Ready for automation 🎉🎉.
